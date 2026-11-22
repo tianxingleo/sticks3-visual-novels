@@ -1,0 +1,12 @@
+/.arduino/
+/.build/
+/.ruff_cache/
+/.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+/arduino-cli.yaml
+/firmware/StickStory/Assets.h
+/firmware/YuilineStory/Generated.cpp
+/tools/assets_src/
